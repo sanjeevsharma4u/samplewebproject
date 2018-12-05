@@ -19,7 +19,6 @@ public class Employee{
     this.age=age;
   }  
   public String toString(){
-    return "Employee Name:"+this.name
-      +"  Age:"+this.age;
+    return "Employee Name:"+this.name +"  Age:"+this.age;
   } 
 }
